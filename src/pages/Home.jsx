@@ -33,17 +33,17 @@ function Home() {
         <div className="about-stats">
           <div>
             <h3>Quality</h3>
-            <p>Assured Products</p>
+            <p>Carefully selected spare parts for reliable vehicle performance</p>
           </div>
 
           <div>
             <h3>Wide</h3>
-            <p>Product Range</p>
+            <p>Product range covering engine, brake, suspension and electrical parts</p>
           </div>
 
           <div>
             <h3>Fast</h3>
-            <p>Customer Support</p>
+            <p>Quick inquiry support to help customers find the right part</p>
           </div>
         </div>
       </section>

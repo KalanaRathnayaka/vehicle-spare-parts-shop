@@ -1,16 +1,49 @@
-# React + Vite
+# Vehicle Spare Parts Shop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A professional React-based website for a vehicle spare parts shop. This project was developed as part of an internship selection task.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Modern Landing Page
+* Contact Us Page
+* Responsive Navigation Bar
+* Product Categories Section
+* Professional UI Design
+* Deployed with Netlify
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React.js
+* Vite
+* CSS3
+* JavaScript
+* Netlify
 
-## Expanding the ESLint configuration
+## Pages
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Home Page
+
+* Hero Section
+* About Section
+* Product Categories
+* Company Highlights
+
+### Contact Us Page
+
+* Company Contact Information
+* Customer Inquiry Section
+
+## Live Demo
+
+https://vehicle-spare-parts-shop.netlify.app/
+
+## GitHub Repository
+
+https://github.com/KalanaRathnayaka/vehicle-spare-parts-shop
+
+## Author
+
+Kalana Adithya Rathnayaka
+
+BSc (Hons) Information Technology Undergraduate
+Sri Lanka Institute of Information Technology (SLIIT)

@@ -3,9 +3,7 @@ import { Link } from "react-router-dom";
 function Navbar() {
   return (
     <nav className="navbar">
-      <div className="logo">
-        AutoParts Hub
-      </div>
+      <div className="logo">AutoParts Hub</div>
 
       <ul className="nav-links">
         <li>
